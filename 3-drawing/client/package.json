@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "socialdrawing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^2.4.0",
+    "fable-compiler": "^0.7.18",
+    "fable-core": "^0.7.14",
+    "requirejs": "^2.2.0"
+  }
+}
